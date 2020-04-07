@@ -7,7 +7,7 @@ name: Your Name
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
-
+baseurl: https://1ayushjswl.github.io
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: images/jekyll-logo.png
 
