@@ -4,8 +4,6 @@ title: Team
 permalink: /team/
 ---
 
-ome information about you!
+XYZ
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+![_config.yml]({{ site.baseurl }}/images/config.png)
