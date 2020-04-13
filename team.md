@@ -4,6 +4,6 @@ title: Team
 permalink: /team/
 ---
 
-XYZ
+Anshul Gautam Deepanshu
 
 ![_config.yml]({{ site.baseurl }}/images/Anshul.jpeg)
