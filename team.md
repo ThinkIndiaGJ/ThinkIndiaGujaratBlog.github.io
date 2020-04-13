@@ -6,4 +6,4 @@ permalink: /team/
 
 XYZ
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/Anshul.jpeg)
