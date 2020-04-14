@@ -4,8 +4,8 @@ title: Team
 permalink: /team/
 ---
 
-
-
-![_config.yml]({{ site.baseurl }}/images/Anshul.jpeg)(Anshul Gautam Deepanshu)|![_config.yml]({{ site.baseurl }}/images/Anshul.jpeg)(Anshul Gautam Deepanshu)
+Anshul Gautam Deepanshu | Anshul Gautam Deepanshu
+|:---:|:---:|:---:|
+![_config.yml]({{ site.baseurl }}/images/Anshul.jpeg) | ![_config.yml]({{ site.baseurl }}/images/Anshul.jpeg)
 
 
